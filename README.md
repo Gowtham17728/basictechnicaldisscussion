@@ -3,6 +3,6 @@ basic learning
 
 ### the second line
 
-one
-two
-three
+* one
+*  two
+*  three
