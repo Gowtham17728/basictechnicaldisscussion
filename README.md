@@ -1,0 +1,2 @@
+# basictechnicaldisscussion
+basic learning
